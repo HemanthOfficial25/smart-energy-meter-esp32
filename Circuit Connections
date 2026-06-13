@@ -1,0 +1,7 @@
+ACS712 → ESP32
+
+VCC  → 5V
+GND  → GND
+OUT  → GPIO34 (ADC)
+
+Load Wire → ACS712 Input → ACS712 Output → Load
